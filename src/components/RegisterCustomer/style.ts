@@ -80,7 +80,7 @@ export const ButtonCancel = styled.button`
 
   &:hover {
     cursor: pointer;
-    transform: scale(1.1px);
+    transform: scale(1.05);
   }
 `;
 
@@ -101,6 +101,6 @@ export const ButtonRegister = styled.button`
 
   &:hover {
     cursor: pointer;
-    transform: scale(1.1px);
+    transform: scale(1.05);
   }
 `;
